@@ -1,0 +1,2 @@
+class Vpm < ApplicationRecord
+end
